@@ -62,7 +62,7 @@ class _QuotesPageState extends State<QuotesPage> {
                     margin: EdgeInsets.only(top: 50),
                     child: Text(
                       "${widget.categoryname} quotes".toUpperCase(),
-                      style: textStyle(28,
+                      style: textStyle(24,
                           color: Colors.black, fontWeight: FontWeight.w700),
                     ),
                   ),

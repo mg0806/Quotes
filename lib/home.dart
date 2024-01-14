@@ -82,7 +82,7 @@ class _HomePageState extends State<HomePage> {
                   child: Center(
                     child: Text(
                       category.toUpperCase(),
-                      style: textStyle(20,
+                      style: textStyle(17,
                           color: Colors.white, fontWeight: FontWeight.bold),
                     ),
                   ),
